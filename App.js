@@ -18,12 +18,12 @@ import { FavouritesContextProvider } from "./src/services/favourites/favourites.
 import { AuthenticationContextProvider } from "./src/services/authentication/authentication.context";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAG0kpMhVrIPgsdXivO8gqvNk0nIbG3a3g",
-  authDomain: "mealstogo-885bc.firebaseapp.com",
-  projectId: "mealstogo-885bc",
-  storageBucket: "mealstogo-885bc.appspot.com",
-  messagingSenderId: "293192675624",
-  appId: "1:293192675624:web:8b8752e9a16cff0d00a01d"
+  apiKey: "AIzaSyBmKwzXIQ_7iufDh4U6GyU_4Wc-hyDEnf8",
+  authDomain: "mealstogo-b2612.firebaseapp.com",
+  projectId: "mealstogo-b2612",
+  storageBucket: "mealstogo-b2612.appspot.com",
+  messagingSenderId: "158582890553",
+  appId: "1:158582890553:web:2ef50439fcd80f2ede2de8",
 };
 
 if (!firebase.apps.length) {
